@@ -1,1 +1,1 @@
-For Preview - https://golden-creponne-40a241.netlify.app/
+For Preview - https://intel-inside-microsoft-clone.vercel.app/
